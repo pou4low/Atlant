@@ -1,0 +1,15 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_97">
+			<rect id="Feature Icons / 01" width="32.000000" height="32.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip1_97)">
+		<path id="Vector" d="M24 13.3335L32 13.3335L28 8L24 13.3335ZM24 18.6665L32 18.6665L28 24L24 18.6665Z" fill="#D6B1FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M1.33398 0L9.33398 0L9.33398 32L1.33398 32C0.980469 32 0.640625 31.8594 0.390625 31.6094C0.140625 31.3594 0 31.0205 0 30.6665L0 1.3335C0 0.979492 0.140625 0.640625 0.390625 0.390625C0.640625 0.140625 0.980469 0 1.33398 0Z" fill="#8C30F5" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M12 0L20 0C20.3535 0 20.6934 0.140625 20.9434 0.390625C21.1934 0.640625 21.334 0.979492 21.334 1.3335L21.334 30.6665C21.334 31.0205 21.1934 31.3594 20.9434 31.6094C20.6934 31.8594 20.3535 32 20 32L12 32L12 0Z" fill="#2EC5CE" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

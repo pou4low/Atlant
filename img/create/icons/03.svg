@@ -1,0 +1,16 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_110">
+			<rect id="Feature Icons / 03" width="32.000000" height="32.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Feature Icons / 03" width="32.000000" height="32.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_110)">
+		<path id="Vector" d="M30.668 7.99951L30.668 2.6665C30.668 2.3125 30.5273 1.97363 30.2773 1.72363C30.0273 1.47363 29.6875 1.33301 29.334 1.33301L2.66797 1.33301C2.31445 1.33301 1.97461 1.47363 1.72461 1.72363C1.47461 1.97363 1.33398 2.3125 1.33398 2.6665L1.33398 7.99951L30.668 7.99951Z" fill="#2EC5CE" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M1.33398 10.667L1.33398 29.3335C1.33398 29.6875 1.47461 30.0264 1.72461 30.2764C1.97461 30.5264 2.31445 30.667 2.66797 30.667L9.33398 30.667L9.33398 10.667L1.33398 10.667Z" fill="#D6B1FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M12 30.667L29.334 30.667C29.6875 30.667 30.0254 30.5264 30.2754 30.2764C30.5254 30.0264 30.666 29.6875 30.666 29.3335L30.666 10.667L12 10.667L12 30.667Z" fill="#8C30F5" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
